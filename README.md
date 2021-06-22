@@ -1,4 +1,4 @@
-# ML Papers 21 | 100 Days of Machine Learning Research
+# Machine Learning Papers 2021
 
 A collection of epic (good) papers to be read in 2021 ![#100DaysOfMLResearch](https://github.com/jishanshaikh4/ml-papers21) ![#RoadToMLResearcher](https://github.com/jishanshaikh4/ml-papers21)
 
